@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/povio/static/css/main.ce61f94a.chunk.css",
+    "main.js": "/povio/static/js/main.a1c6fc68.chunk.js",
+    "main.js.map": "/povio/static/js/main.a1c6fc68.chunk.js.map",
+    "runtime-main.js": "/povio/static/js/runtime-main.0adf1225.js",
+    "runtime-main.js.map": "/povio/static/js/runtime-main.0adf1225.js.map",
+    "static/css/2.fe8dcfe4.chunk.css": "/povio/static/css/2.fe8dcfe4.chunk.css",
+    "static/js/2.5beb925f.chunk.js": "/povio/static/js/2.5beb925f.chunk.js",
+    "static/js/2.5beb925f.chunk.js.map": "/povio/static/js/2.5beb925f.chunk.js.map",
+    "index.html": "/povio/index.html",
+    "precache-manifest.bc99698c38963e4008d2e844abb18939.js": "/povio/precache-manifest.bc99698c38963e4008d2e844abb18939.js",
+    "service-worker.js": "/povio/service-worker.js",
+    "static/css/2.fe8dcfe4.chunk.css.map": "/povio/static/css/2.fe8dcfe4.chunk.css.map",
+    "static/css/main.ce61f94a.chunk.css.map": "/povio/static/css/main.ce61f94a.chunk.css.map",
+    "static/js/2.5beb925f.chunk.js.LICENSE.txt": "/povio/static/js/2.5beb925f.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/povio/static/media/ElegantIcons.fdd9e757.woff",
+    "static/media/Shape.png": "/povio/static/media/Shape.e05231e1.png",
+    "static/media/simple-line-icons.css": "/povio/static/media/Simple-Line-Icons.ff94ad94.woff",
+    "static/media/Video_Povio.mp4": "/povio/static/media/Video_Povio.a06b142e.mp4",
+    "static/media/error.png": "/povio/static/media/error.0f4332f2.png",
+    "static/media/main.css": "/povio/static/media/error_bg.d710f00e.png",
+    "static/media/all.css": "/povio/static/media/fa-solid-900.b7c60297.svg",
+    "static/media/groupmask2.png": "/povio/static/media/groupmask2.aba9e032.png",
+    "static/media/logo.png": "/povio/static/media/logo.3a8319d0.png",
+    "static/media/maskgroup (copy3).png": "/povio/static/media/maskgroup (copy3).b06e28d2.png",
+    "static/media/slick-theme.css": "/povio/static/media/slick.f97e3bbf.svg",
+    "static/media/themify-icons.css": "/povio/static/media/themify.e23a7dca.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0adf1225.js",
+    "static/css/2.fe8dcfe4.chunk.css",
+    "static/js/2.5beb925f.chunk.js",
+    "static/css/main.ce61f94a.chunk.css",
+    "static/js/main.a1c6fc68.chunk.js"
+  ]
+}
